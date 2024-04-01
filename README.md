@@ -1,0 +1,1 @@
+On my To do List Application you add a task that needs to be done and it immediately displays it to your screen then right after you finish the task you have the checkbox to press when the task is done then it ticks the box and makes it blur to indicate that the task is done and be able to add another one
